@@ -1,0 +1,149 @@
+
+
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 84.40.109.124
+New loan calculation request.
+Annual interest rate: 4.00
+Years: 4
+Currency: CHF
+Ammount: 2000.00
+Monthly amount: 64.58
+Total amount: 3099.82
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 84.40.109.124
+New loan calculation request.
+Annual interest rate: 2.00
+Years: 3
+Currency: CHF
+Ammount: 1000.00
+Monthly amount: 39.34
+Total amount: 1416.30
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 84.40.109.124
+New loan calculation request.
+Annual interest rate: 2.00
+Years: 3
+Currency: CHF
+Ammount: 1000.00
+Monthly amount: 39.34
+Total amount: 1416.30
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 84.40.109.124
+New loan calculation request.
+Annual interest rate: 3.50
+Years: 2
+Currency: EUR
+Ammount: 1000.00
+Monthly amount: 87.20
+Total amount: 2092.74
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+New loan calculation request.
+Annual interest rate: 2.40
+Years: 2
+Currency: EUR
+Ammount: 1000.00
+Monthly amount: 85.40
+Total amount: 2049.71
+
+
+Client connected from ip address: 127.0.0.1
+New loan calculation request.
+Annual interest rate: 3.70
+Years: 9
+Currency: CHF
+Ammount: 4000.00
+Monthly amount: 65.97
+Total amount: 7124.25
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+New loan calculation request.
+Annual interest rate: 2.10
+Years: 2
+Currency: CHF
+Ammount: 1000.00
+Monthly amount: 58.01
+Total amount: 1392.25
+
+
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+Client connected from ip address: 127.0.0.1
+New loan calculation request.
+Annual interest rate: 2.40
+Years: 2
+Currency: CHF
+Ammount: 1000.00
+Monthly amount: 58.34
+Total amount: 1400.26
+
+
+New loan calculation request.
+Annual interest rate: 3.50
+Years: 2
+Currency: EUR
+Ammount: 5000.00
+Monthly amount: 435.99
+Total amount: 10463.69
+
+
+Successfully loaded 9 rates...
+Client connected from ip address: 127.0.0.1
+New loan calculation request. Client IP 127.0.0.1Client ID:1
+Annual interest rate: 2.30
+Years: 2
+Currency: CHF
+Ammount: 1500.00
+Monthly amount: 87.35
+Total amount: 2096.39
+
+
+Client connected from ip address: 127.0.0.1
+New loan calculation request. Client IP 127.0.0.1Client ID:2
+Annual interest rate: 1.20
+Years: 3
+Currency: EUR
+Ammount: 1000.00
+Monthly amount: 56.28
+Total amount: 2026.24
+
+
+Client connected from ip address: 127.0.0.1
+New loan calculation request. Client IP 127.0.0.1Client ID:3
+Annual interest rate: 2.40
+Years: 2
+Currency: BGN
+Ammount: 1500.00
+Monthly amount: 65.50
+Total amount: 1572.00
+
+

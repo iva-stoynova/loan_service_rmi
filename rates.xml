@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exchangeRates>
+	<currency>
+		<CODE>AUD</CODE>
+		<RATE>1.28335</RATE>
+	</currency>
+	<currency>
+		<CODE>CAD</CODE>
+		<RATE>1.36257</RATE>
+	</currency>
+	<currency>
+		<CODE>CHF</CODE>
+		<RATE>1.33613</RATE>
+	</currency>
+	<currency>
+		<CODE>GBP</CODE>
+		<RATE>2.19092</RATE>
+	</currency>
+	<currency>
+		<CODE>NKR</CODE>
+		<RATE>1.21335</RATE>
+	</currency>
+	<currency>
+		<CODE>SEK</CODE>
+		<RATE>2.01093</RATE>
+	</currency>
+	<currency>
+		<CODE>USD</CODE>
+		<RATE>1.44129</RATE>
+	</currency>
+	<currency>
+		<CODE>BGN</CODE>
+		<RATE>1.00</RATE>
+	</currency>
+	<currency>
+		<CODE>EUR</CODE>
+		<RATE>1.95583</RATE>
+	</currency>
+</exchangeRates>
